@@ -42,6 +42,14 @@ hey input into the browser.
 - Deploy on Heroku so application is live on the web
 - Craft a `README.md` file that explains your app to the world
 
+### Project Planning
+
+- Plan your application using
+  - User Stories
+  - Wireframes
+  - Entity Relationship Diagram's (ERD)
+- Present your project idea along with your planning documentation on Sunday 24/11 for project approval.
+
 ### Technical Requirements
 
 #### Authentication
